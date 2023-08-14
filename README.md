@@ -27,5 +27,3 @@ The final report for this project is available in the ```pdf``` folder (in Frenc
 [3] R. Lidl, H. Niederreiter, *Introduction to finite fields and their applications*, Cambridge University Press, 1986
 
 [4] Joachim von zur Gathen, Jürgen Gerhard, *Modern Computer Algebra*, Cambridge University Press, 1999
-
-Ecole Normale Supérieure (Paris) Entrance Examination (Spring 2019)
